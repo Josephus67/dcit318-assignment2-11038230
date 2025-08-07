@@ -33,14 +33,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("=== Inheritance and Method Overriding Demo ===");
+        Console.WriteLine(" Inheritance and Method Overriding");
         
-        // An instances of Animal, Dog, and Cat
         Animal genericAnimal = new Animal();
         Dog dog = new Dog();
         Cat cat = new Cat();
         
-        // Call MakeSound() method on each instance
         Console.Write("Animal: ");
         genericAnimal.MakeSound();
         
@@ -50,7 +48,6 @@ class Program
         Console.Write("Cat: ");
         cat.MakeSound();
         
-        // Demonstrate polymorphism
         Console.WriteLine("\n Polymorphism Example ");
         Animal[] animals = { new Animal(), new Dog(), new Cat() };
         

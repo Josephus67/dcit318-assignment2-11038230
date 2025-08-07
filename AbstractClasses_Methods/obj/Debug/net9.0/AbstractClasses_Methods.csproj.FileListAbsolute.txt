@@ -1,0 +1,15 @@
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/bin/Debug/net9.0/AbstractClasses_Methods
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/bin/Debug/net9.0/AbstractClasses_Methods.deps.json
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/bin/Debug/net9.0/AbstractClasses_Methods.runtimeconfig.json
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/bin/Debug/net9.0/AbstractClasses_Methods.dll
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/bin/Debug/net9.0/AbstractClasses_Methods.pdb
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/obj/Debug/net9.0/AbstractClasses_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/obj/Debug/net9.0/AbstractClasses_Methods.AssemblyInfoInputs.cache
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/obj/Debug/net9.0/AbstractClasses_Methods.AssemblyInfo.cs
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/obj/Debug/net9.0/AbstractClasses_Methods.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/obj/Debug/net9.0/AbstractClasses_Methods.sourcelink.json
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/obj/Debug/net9.0/AbstractClasses_Methods.dll
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/obj/Debug/net9.0/refint/AbstractClasses_Methods.dll
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/obj/Debug/net9.0/AbstractClasses_Methods.pdb
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/obj/Debug/net9.0/AbstractClasses_Methods.genruntimeconfig.cache
+/Users/joe/Desktop/dcit318_ass2/AbstractClasses_Methods/obj/Debug/net9.0/ref/AbstractClasses_Methods.dll
