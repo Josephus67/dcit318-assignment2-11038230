@@ -1,0 +1,15 @@
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/bin/Debug/net9.0/Inheritance_Overriding
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/bin/Debug/net9.0/Inheritance_Overriding.deps.json
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/bin/Debug/net9.0/Inheritance_Overriding.runtimeconfig.json
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/bin/Debug/net9.0/Inheritance_Overriding.dll
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/bin/Debug/net9.0/Inheritance_Overriding.pdb
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/obj/Debug/net9.0/Inheritance_Overriding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/obj/Debug/net9.0/Inheritance_Overriding.AssemblyInfoInputs.cache
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/obj/Debug/net9.0/Inheritance_Overriding.AssemblyInfo.cs
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/obj/Debug/net9.0/Inheritance_Overriding.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/obj/Debug/net9.0/Inheritance_Overriding.sourcelink.json
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/obj/Debug/net9.0/Inheritance_Overriding.dll
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/obj/Debug/net9.0/refint/Inheritance_Overriding.dll
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/obj/Debug/net9.0/Inheritance_Overriding.pdb
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/obj/Debug/net9.0/Inheritance_Overriding.genruntimeconfig.cache
+/Users/joe/Desktop/dcit318_ass2/Inheritance_Overriding/obj/Debug/net9.0/ref/Inheritance_Overriding.dll
